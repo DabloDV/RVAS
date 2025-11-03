@@ -1,6 +1,6 @@
 ### Setup instructions
 
-First, these all prerrequisites to run the code:
+First, these are prerrequisites to run the code:
 
 - Python 3.8+ needed
 - PostgreSQL 13+ needed with a database named vip_medical_group
