@@ -1,0 +1,23 @@
+#Python cache
+__pycache__/
+*.py[cod]
+
+#Virtual environments
+.venv/
+venv/
+.env
+.env.*
+
+#IDE
+.vscode/
+
+#Logs
+logs/
+!logs/.gitkeep
+
+#Data
+
+#Keep processed CSVs but ignore raw Excel inputs.
+data/raw/
+!data/processed/
+data/processed/*.tmp
